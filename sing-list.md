@@ -1,1 +1,2 @@
-sing list
+sing list -- detail
+2002
